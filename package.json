@@ -9,10 +9,11 @@
   },
   "devDependencies": {
     "autoprefixer": "^10.4.20",
-    "miniprogram-api-typings": "latest",
-    "tailwindcss": "^3.4.12",
+    "miniprogram-api-typings": "^4.0.1",
+    "tailwindcss": "^3.4.13",
     "tailwindcss-patch": "^4.0.0",
-    "weapp-tailwindcss": "^3.5.2",
-    "weapp-vite": "^1.1.5"
+    "typescript": "^5.6.2",
+    "weapp-tailwindcss": "^3.5.3",
+    "weapp-vite": "^1.2.4"
   }
 }
