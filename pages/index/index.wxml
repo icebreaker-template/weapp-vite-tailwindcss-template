@@ -1,1 +1,4 @@
-<view class="bg-[#7d7ac2] text-[100px] text-[#123456] w-[323px] {{true?'h-[30px]':'h-[45px]'}}">111</view>
+<view class="bg-[#7d7ac2] text-[70px] text-[#123456] w-[323px] {{true?'h-[300px]':'h-[450px]'}}">
+    这是 tailwindcss 的样式
+</view>
+<t-button theme="primary">按钮</t-button>
